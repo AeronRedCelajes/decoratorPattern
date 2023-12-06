@@ -32,3 +32,4 @@ BankAcountDecorator must be an interface.
 Follow instructions.  You are not allowed to insert other methods except what is stated in the diagram (setters and getters are allowed).
 
 ## Class Diagram
+![Decorator Design Pattern](https://github.com/AeronRedCelajes/decoratorPattern/assets/142370807/16f36653-2059-48e1-bd01-9ca519ff3fd5)
