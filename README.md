@@ -11,7 +11,10 @@ Benefits include the "Standard Savings Account" plus access to "GCash transfer".
 The UpSave account offers the highest interest rate of 4.0%.
 Benefits include the "Standard Savings Account" plus "with Insurance".
 
-The content of your Cimb.java should ONLY contain the following codes with the exception of inserting your own package name
+The content of your Cimb.java should ONLY contain the following codes with the exception of inserting your own package name:
+<br>
+![lab 10 code reference](https://github.com/AeronRedCelajes/decoratorPattern/assets/142370807/84e10885-b466-4974-8c57-b5f8b16d1af3)
+
 
 You should display the following output:
 <br>
