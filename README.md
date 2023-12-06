@@ -1,4 +1,4 @@
-## Problem
+![Decorator Design Pattern](https://github.com/AeronRedCelajes/decoratorPattern/assets/142370807/95651a96-8351-443d-a3b3-ac3f35d45f39)## Problem
 
 decoratorPattern.Cimb is a digital bank that offers GSave and UpSave savings accounts.   As with a typical Savings Account, it contains accountNumber, accountName, and a balance for that account.
 
@@ -36,4 +36,4 @@ Description of the following methods
 Follow instructions.  You are not allowed to insert other methods except what is stated in the diagram (setters and getters are allowed).
 
 ## Class Diagram
-![Decorator Design Pattern](https://github.com/AeronRedCelajes/decoratorPattern/assets/142370807/52c4f4ff-55c5-4079-aad8-07b50f4acb0d)
+![Decorator Design Pattern](https://github.com/AeronRedCelajes/decoratorPattern/assets/142370807/56430b7d-6b86-41fa-b9fb-6db5ea770e7b)
