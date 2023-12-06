@@ -36,4 +36,4 @@ Description of the following methods
 Follow instructions.  You are not allowed to insert other methods except what is stated in the diagram (setters and getters are allowed).
 
 ## Class Diagram
-![Decorator Design Pattern](https://github.com/AeronRedCelajes/decoratorPattern/assets/142370807/16f36653-2059-48e1-bd01-9ca519ff3fd5)
+![Decorator Design Pattern](https://github.com/AeronRedCelajes/decoratorPattern/assets/142370807/52c4f4ff-55c5-4079-aad8-07b50f4acb0d)
