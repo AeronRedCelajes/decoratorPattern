@@ -23,13 +23,13 @@ public class UpSave implements BankAccountDecorator{
 
     // The Interest Rate for UpSave
     @Override
-    public double getInterestRate() {
+    public Double getInterestRate() {
         return 0.04;
     }
 
     // Gets the Balance
     @Override
-    public double getBalance() {
+    public Double getBalance() {
         return bankAccount.getBalance();
     }
 
@@ -41,7 +41,7 @@ public class UpSave implements BankAccountDecorator{
 
     // The Computed Balance for UpSave
     @Override
-    public double computeBalanceWithInterest() {
+    public Double computeBalanceWithInterest() {
         return bankAccount.getBalance() * (1 + getInterestRate());
     }
 
