@@ -14,6 +14,7 @@ Benefits include the "Standard Savings Account" plus "with Insurance".
 The content of your Cimb.java should ONLY contain the following codes with the exception of inserting your own package name
 
 You should display the following output:
+<br>
 ![lab 10 expected output](https://github.com/AeronRedCelajes/decoratorPattern/assets/142370807/a0c4ede7-a11e-435d-b4ee-9861e5ca2a7a)
 
 Description of the following methods
